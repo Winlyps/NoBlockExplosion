@@ -1,0 +1,5 @@
+name: TntNoBlockExplosion
+version: '1.0.0'
+main: winlyps.tntnoblockexplosion.TntNoBlockExplosion
+api-version: '1.16'
+Author: [Winlyps]
